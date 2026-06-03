@@ -40,11 +40,3 @@ A clear, isolated metadata screen presenting comprehensive profiles for individu
 
 ---
 
-## 📦 Installation & Local Setup
-
-Follow these technical steps to clone, configure, and serve the application on your local machine:
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/your-username/readify.git](https://github.com/your-username/readify.git)
-cd readify
