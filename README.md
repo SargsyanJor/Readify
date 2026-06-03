@@ -28,15 +28,15 @@
 
 ### 🏠 Books List Dashboard
 The main interface displaying the structured inventory list along with inline management actions.
-![Books List Dashboard](screenshots/books_list.png)
+![Books List Dashboard](app/screenshots/books_list.png)
 
 ### ➕ Add New Book Form
 A carefully padded, focus-interactive input form designed for seamless collection registry.
-![Add New Book Form](screenshots/add_book_form.png)
+![Add New Book Form](app/screenshots/add_book_form.png)
 
 ### 📖 Book Details View
 A clear, isolated metadata screen presenting comprehensive profiles for individual books.
-![Book Details View](screenshots/book_details.png)
+![Book Details View](app/screenshots/book_details.png)
 
 ---
 
